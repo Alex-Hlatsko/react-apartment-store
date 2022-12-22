@@ -1,0 +1,76 @@
+{
+    "apartments":[
+        {
+            "id": "12424",
+            "title": "The Firs",
+            "num_rooms": "5",
+            "address": {
+                "street" : "1783 Allison Avenue",
+                "city" : "Norfolk",
+                "zipcode" : "23510",
+                "tel" : "757-628-7329"
+            },
+            "description": "The apartment consists of a large bright bedroom with a comfy king-sized bed, a modern fully-equipped kitchen and a sunlit living room with Apple TV and free Netflix account. It is the perfect place to stay for couples looking for a romantic location in the historic centre, within walking distance of some of the most beautiful sceneries you can find in the city and all famous landmarks. The sofa in the living room can also serve as an additional bed for a 3rd guest. Located in a side street between the ___ river bank and the leafy ___ hill park, the apartment is very quiet at night. Please note, my apartment is on the 3rd floor with no elevator. I am more than happy to help you with your luggage! ",
+            "images": [
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/1a1.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/1a2.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/1a3.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/1a4.jpg?raw=true"
+            ]
+        },
+        {
+            "id": "42341",
+            "title": "Back Lodge",
+            "num_rooms": "3",
+            "address": {
+                "street" : "4742 Mulberry Lane",
+                "city" : "West Palm Beach",
+                "zipcode" : "33401",
+                "tel" : "561-820-6724"
+            },
+            "description": "The apartment is suitable for a couples or for a single travelers. It is very cozy and comfortable space, fully designed and furnished by me. Kitchenette includes small fridge, induction stove, microwave and all necessary cutlery to prepare and enjoy your food. The bathroom consists of a shower, sink with a big front mirror and flushable toilet. Liquid soap and shower gel is included. It sleeps up to 2 people. A double bed (160×200) or two single beds (80×200) are available. Sheets, blankets and linen is included. It is always clean, disinfected and prepared with all amenities for the guests to enjoy their stay and to feel comfortable. ",
+            "images": [
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/2a1.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/2a2.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/2a3.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/2a4.jpg?raw=true"
+            ]
+        },
+        {
+            "id": "8775",
+            "title": "Meadoways",
+            "num_rooms": "2",
+            "address": {
+                "street" : "4001 Grove Avenue",
+                "city" : "Ada",
+                "zipcode" : "74820",
+                "tel" : "580-320-2753"
+            },
+            "description": "This newly renovated, fully furnished studio features a bedroom with a queen bed and sofa-bed on the upper floor, a spacious and cozy living room with a comfy sofa-bed facing a TV with Netflix on a first floor, a small work table, a dining table, a spacious bathroom with a bathtub and a brand new fully-equipped kitchen. A wall safe and luggage holder also available. The apartment can accommodate comfortably up to 4 persons with 5 people as maximum capacity.",
+            "images": [
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/3a1.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/3a2.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/3a3.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/3a4.jpg?raw=true"
+            ]
+        },
+        {
+            "id": "8354",
+            "title": "Firlands",
+            "num_rooms": "6",
+            "address": {
+                "street" : "324 Illinois Avenue",
+                "city" : "Portland",
+                "zipcode" : "97205",
+                "tel" : "503-954-1112"
+            },
+            "description": "The apartment has a floor space of 60 square meters and it's located on the first floor, and in it you will find a spacious living room with a stylish sitting area with smart TV with Netflix included, fully equipped kitchen and a dining. The sofa extends as a bed suitable for two people. The bedroom comes with the most comfortable bed with a choice of pillows and blackout curtains for the perfect night in after a long day. There are separate bathroom with a shower and a toilet that come with all the necessary toiletries.",
+            "images": [
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/4a1.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/4a2.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/4a3.jpg?raw=true",
+                "https://github.com/Alex-Hlatsko/react-apartment-store/blob/main/public/data_img/4a4.jpg?raw=true"
+            ]
+        }
+    ]
+}

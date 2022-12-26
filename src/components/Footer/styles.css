@@ -1,0 +1,10 @@
+footer{
+    background-color: #2266E5;
+    color: #ffffff;
+    padding: 0.5rem 1.75rem;
+}
+@media only screen and (max-width: 600px) {
+    footer{
+        padding: 0.5rem 1rem;
+    }
+}

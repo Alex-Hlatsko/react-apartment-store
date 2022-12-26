@@ -5,7 +5,7 @@ import { CgCloseR } from 'react-icons/cg'
 import './styles.css'
 
 const Navigation = () => {
-  const [menuState, setMenuState] = useState(true);
+  const [menuState, setMenuState] = useState(false);
   return (
     <>
       <nav className='flex justify-between items-center'>

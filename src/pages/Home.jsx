@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
         <Navigation/>
-        {/* <Header/> */}
+        <Header/>
         <Footer/>
     </>
   )

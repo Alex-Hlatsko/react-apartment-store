@@ -1,8 +1,9 @@
 import React from 'react'
+import './styles.css'
 
 const Footer = () => {
   return (
-    <div>Footerrrr</div>
+    <footer className='w-full text-center'><p>The page was designed using the React library © 2022</p></footer>
   )
 }
 

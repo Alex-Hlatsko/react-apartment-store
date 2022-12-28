@@ -4,14 +4,14 @@ import { GiHamburgerMenu } from 'react-icons/gi'
 import { CgCloseR } from 'react-icons/cg'
 import './styles.css'
 
-const Navigation = () => {
+const Navigation = ({logo}) => {
   const [menuState, setMenuState] = useState(false);
   return (
     <>
       <nav className='flex justify-between items-center'>
         <div className=''>
-          <Link className='flex items-center'>
-            <img  className='mr-2' src="./img/logo.svg" alt="logo"/>
+          <Link to='/' className='flex items-center'>
+            <img  className='mr-2' src={logo === undefined ?  './img/logo.svg' : logo} alt="logo"/>
             <span className='logo text-base'>Apartmentsell</span>
           </Link>
         </div>

@@ -26,8 +26,6 @@ const ApartmentDetails = () => {
     
       dataFetch();
     });
-
-    console.log(data)
     const images = data?.images;
     const address = data?.address;
 

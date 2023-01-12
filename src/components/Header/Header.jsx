@@ -9,7 +9,7 @@ const Header = ({data}) => {
         <div className="header_content flex flex-col justify-center">
               <h1 className="header_title">{data.title}</h1>
               <p className="header_subtitle">{data.subtitle}</p>
-              <Link to="/apartmants"><span className='btn'>{data.btn}</span></Link>
+              <Link to="/apartments"><span className='btn'>{data.btn}</span></Link>
         </div>
     </div>
   )

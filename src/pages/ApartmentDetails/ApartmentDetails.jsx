@@ -25,7 +25,7 @@ const ApartmentDetails = () => {
       };
     
       dataFetch();
-    });
+    },[]);
     const images = data?.images;
     const address = data?.address;
 
